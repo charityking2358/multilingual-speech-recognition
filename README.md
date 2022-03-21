@@ -1,7 +1,7 @@
 ## Multilingual Speech Recognition: End-to-End Automatic Speech Recognition
 This notebook uses the end-to-end (E2E) speech processing toolkit [ESPnet](https://github.com/espnet/espnet) for the natural language processing task automatic speech recognition (ASR)< which enables human beings to use their voices to speak with a computer interface in a way that resembles normal human conversation.<br>
 
-About the data: The training data used is the Vientamese [Mozilla Commonvoice dataset](https://commonvoice.mozilla.org/en/datasets), comprised of 15 minutes of audio data from 14 different speakers. These datasets are publically available and enable the advancement of speech-enabled applications. 
+About the data: The training data used is the Vietnamese [Mozilla Commonvoice dataset](https://commonvoice.mozilla.org/en/datasets), comprised of 15 minutes of audio data from 14 different speakers. These datasets are publically available and enable the advancement of speech-enabled applications. 
 
 ## Requirements
 A GPU that can install CUDA_VERSION=10.2 for the latest PyTorch (1.10.1)
