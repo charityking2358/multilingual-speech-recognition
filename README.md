@@ -1,7 +1,7 @@
 ## Multilingual Speech Recognition: End-to-End Automatic Speech Recognition
 This notebook uses the end-to-end (E2E) speech processing toolkit [ESPnet](https://github.com/espnet/espnet) for the natural language processing task automatic speech recognition (ASR)< which enables human beings to use their voices to speak with a computer interface in a way that resembles normal human conversation.<br>
 
-About the data: The training data used is the Vientamese [Mozilla Commonvoice dataset](https://commonvoice.mozilla.org/en/datasets), comprised of 16 hours of audio data from 200 different speakers. These datasets are publically available and enable the advancement of speech-enabled applications. 
+About the data: The training data used is the Vientamese [Mozilla Commonvoice dataset](https://commonvoice.mozilla.org/en/datasets), comprised of 15 minutes of audio data from 14 different speakers. These datasets are publically available and enable the advancement of speech-enabled applications. 
 
 
 ## Requirements
