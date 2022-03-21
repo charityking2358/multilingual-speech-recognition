@@ -7,8 +7,11 @@ About the data: The training data used is the Vientamese [Mozilla Commonvoice da
 ## Requirements
 A GPU that can install CUDA_VERSION=10.2 for the latest PyTorch (1.10.1)
 
-
 ## Code
+This code can be run on either an AWS server or via Google Colab (for small datasets). 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1f0vRkvWROCbvkop4yOpkuulBiY24_q0h?usp=sharing)
+
 
 ### Training
 This codebase does not contain any trained models. For the first run, use the follow command line. 
